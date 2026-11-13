@@ -1,0 +1,9 @@
+# Carpeta de compilación de Gradle
+build/
+
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+
+# Tu archivo de contraseñas reales (¡El más importante!)
+src/main/resources/application.properties
