@@ -6,4 +6,4 @@ build/
 *.iml
 
 # Tu archivo de contraseñas reales (¡El más importante!)
-src/main/resources/application.properties
+**/application.properties
