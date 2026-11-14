@@ -13,7 +13,7 @@ Sistema de gestión para clínica odontológica. Actualmente en desarrollo.
 ## Configuración local
 1. Clonar el repositorio.
 2. Renombrar `application-example.properties` a `application.properties`.
-3. Configurar las credenciales de PostgreSQL y la clave JWT.
+3. Configurar las credenciales de PostgreSQL.
 4. Ejecutar la aplicación.
 
 ## Estado del proyecto
